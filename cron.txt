@@ -1,0 +1,2 @@
+*/7 * * * * /home/ck/.config/scripts/battery.sh
+0 0 * * 0 /home/ck/.config/scripts/tiddly.sh
