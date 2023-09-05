@@ -1,3 +1,8 @@
 #! /bin/bash
-feh ~/School/timetable-fall-1.png
-xdotool key super_L+f
+feh ~/Pictures/timetable.png &
+#xdotool search --class feh windowactivate %@ key Super_L+F
+#xdotool keydown Super_L & 
+#sleep 0.01
+#xdotool key F
+#sleep 0.01
+#xdotool keyup Super_L

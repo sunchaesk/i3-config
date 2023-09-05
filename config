@@ -40,6 +40,7 @@ exec --no-startup-id nm-applet
 # start flameshot
 exec --no-startup-id flameshot
 bindsym $mod+z exec flameshot gui
+bindsym $mod+t exec ./timetable
 
 # Set background image using feh
 exec feh --bg-scale ~/Pictures/wallpaper.jpg
